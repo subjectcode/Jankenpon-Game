@@ -1,0 +1,22 @@
+i {
+    font-size: 50px;
+    cursor: pointer;
+    position: absolute;
+    top: 5%;
+    left: 97%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 3em;
+}
+
+h1 {
+    position: relative;
+    top: 2%;
+    /* position: absolute;
+    top: 5%;
+    left: 30%; */
+    text-align: center;
+    font-size: 3em;
+    color: white;
+    pointer-events: none;
+}
